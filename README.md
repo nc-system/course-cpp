@@ -1,2 +1,2 @@
-# course-cpp
-NC Course - C++
+# Course Internet of Things
+Course NC - Internet of Things
